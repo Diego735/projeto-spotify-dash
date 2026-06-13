@@ -16,6 +16,33 @@ python projeto_spotify_dash/src/prepare_data.py
 # 3. Iniciar o servidor do Dashboard
 python projeto_spotify_dash/app.py
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Este é um banco de dados histórico massivo hospedado no Kaggle contendo mais de 232.000 músicas.
+Ele organiza as músicas por colunas como genre (gênero), artist_name, track_name, popularity e os atributos de áudio (como danceability, energy, tempo).
+Serve como a excelente base de dados de treino e referência histórica. Ele ajuda a entender como os gêneros musicais se comportavam estruturalmente antes de você começar a puxar os dados mais recentes direto da API.
+
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db?utm_source=chatgpt.com
+
+
+Este é outro dataset extremamente popular no Kaggle, focado em 114.000 faixas de música individualizadas com um nível de detalhe técnico muito alto.
+A diferença crucial deste dataset é que ele foi extraído com foco em áudio quantitativo puro, trazendo métricas exatas de acousticness, danceability, loudness, speechiness e a coluna explicit (se a música tem conteúdo explícito ou não).
+Este link representa a estrutura exata de colunas e dados que o seu script prepare_data.py e o seu Dashboard original esperam ler. É o "molde" ideal que dita o formato que o seu arquivo final tratados deve ter.
+
+https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset?resource=download
+
+
+
+Este link é o coração do seu crawler. Ele aponta direto para a central de controle do aplicativo privado que você criou dentro da plataforma oficial do Spotify para Desenvolvedores.
+É aqui que ficam armazenadas as suas chaves de segurança exclusivas: o Client ID e o Client Secret.
+Sem esse link e as credenciais que estão dentro dele, o script coleta_spotify.py não conseguiria pedir autorização aos servidores do Spotify. Ele funciona como o "crachá de acesso" que permite ao seu código Python contornar as restrições locais, fazer buscas em tempo real por gênero e trazer as músicas mais tocadas de 2026 para dentro do seu sistema automaticamente.
+
+https://developer.spotify.com/dashboard/9680df6280054ddebc700c2e1d75fb35
+
+
+>>>>>>>Usamos os dois primeiros links do Kaggle como nossa base de dados estática de referência histórica para modelar e estruturar nossos gráficos. O terceiro link é o nosso Painel do Spotify API, de onde extraímos as credenciais para rodar o crawler dinâmico que atualiza o projeto com dados reais
+
+
 
 Projeto Final — Dashboard Spotify com Python e Dash
 Tema
