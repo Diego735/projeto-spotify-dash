@@ -15,3 +15,63 @@ python projeto_spotify_dash/src/prepare_data.py
 
 # 3. Iniciar o servidor do Dashboard
 python projeto_spotify_dash/app.py
+
+
+Projeto Final — Dashboard Spotify com Python e Dash
+Tema
+Análise de tendências musicais no Spotify: popularidade, gêneros e atributos musicais.
+
+Objetivo
+Construir um dashboard interativo para analisar como características musicais, como energia, danceability, valence, acousticness, tempo e gênero, se relacionam com a popularidade das faixas.
+
+Dataset sugerido
+Use o dataset do Kaggle: 114000 Spotify Songs ou Spotify Tracks Dataset.
+
+O arquivo principal normalmente vem como dataset.csv.
+Para cumprir o requisito de pelo menos dois arquivos, o projeto possui um script que divide o dataset em dois arquivos distintos:
+
+tracks_metadata.csv
+tracks_audio_features.csv
+Depois, o pipeline realiza merge entre eles usando track_id.
+
+Estrutura do projeto
+projeto_spotify_dash/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── data/
+│   ├── raw/
+│   │   └── coloque_aqui_o_dataset.csv
+│   └── processed/
+│
+├── src/
+│   ├── prepare_data.py
+│   └── eda_insights.py
+│
+└── assets/
+    └── style.css
+Como rodar
+Instale as bibliotecas:
+pip install -r requirements.txt
+Baixe o dataset do Kaggle e coloque o CSV em:
+data/raw/dataset.csv
+Prepare os dados:
+python src/prepare_data.py
+Rode o dashboard:
+python app.py
+Acesse no navegador:
+http://127.0.0.1:8050
+Entregáveis
+Código do projeto
+Dataset bruto usado
+Dashboard com duas abas:
+Visão Geral
+Exploração Interativa
+Relatório/apresentação explicando:
+fonte dos dados
+pipeline
+limpeza
+transformações
+insights
