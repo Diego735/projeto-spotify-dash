@@ -1,0 +1,61 @@
+track_id,track_name,main_artist,popularity,genre,danceability,energy,valence,acousticness,speechiness,tempo,duration_min
+20jbSiX29FDX4oQxBXyUEi,hate that i made you love me,Ariana Grande,50,pop,0.89,0.75,0.45,0.04,0.11,116.0,3.3
+20dAJsyno9ZoBLJtqgQnUI,Hooligan,BTS,50,pop,0.42,0.57,0.36,0.25,0.18,125.8,3.03
+68lbSrXDORS51pmyjZv712,SWIM,BTS,50,pop,0.9,0.71,0.64,0.12,0.2,127.0,2.65
+4SjcIkVc4cvFgURD1EHxDM,Eu Me Apaixonei,Vitinho Imperador,50,pop,0.62,0.63,0.58,0.05,0.07,116.3,3.43
+3bmpXHVie1GTy37OkXJ7Vc,2.0,BTS,50,pop,0.52,0.67,0.75,0.04,0.19,102.4,2.83
+0HixceBFegrCY3GFBB7SlQ,Saudade do Carai,Mari Fernandez,50,pop,0.75,0.55,0.63,0.17,0.17,103.8,2.85
+2rKkfc4VZ74FQDc1FF1Zo6,Body to Body,BTS,50,pop,0.63,0.75,0.44,0.05,0.15,107.1,3.16
+0b61A7v9agI08BG21jJPQ9,they don’t know ’bout us,BTS,50,pop,0.81,0.7,0.35,0.36,0.16,96.7,2.74
+4B4Q7zfd0aHcuhQBfCRnH5,NORMAL,BTS,50,pop,0.83,0.53,0.4,0.08,0.19,126.6,3.03
+0KmrKOdScRDVYwWS8hkkdv,FYA,BTS,50,pop,0.53,0.61,0.84,0.27,0.1,93.5,3.01
+60a0Rd6pjrkxjPbaKzXjfq,In the End,Linkin Park,50,rock,0.79,0.79,0.44,0.31,0.08,141.5,3.61
+7MnT7msJZg3XBAS0OTfGrB,Tempo Perdido,Legião Urbana,50,rock,0.42,0.7,0.8,0.19,0.12,94.7,5.04
+0COqiPhxzoWICwFCS4eZcp,Bring Me To Life,Evanescence,50,rock,0.61,0.84,0.78,0.14,0.05,134.1,3.93
+70LcF31zb1H0PyJoS1Sx1r,Creep,Radiohead,50,rock,0.6,0.78,0.32,0.13,0.04,110.5,3.98
+4CeeEOM32jQcH3eN9Q2dGj,Smells Like Teen Spirit,Nirvana,50,rock,0.53,0.95,0.52,0.13,0.07,117.2,5.03
+7snQQk1zcKl8gZ92AnueZW,Sweet Child O' Mine,Guns N' Roses,50,rock,0.43,0.63,0.43,0.39,0.13,137.4,5.93
+3nI0piSOxAik2RCpHGloB7,Só Os Loucos Sabem,Charlie Brown Jr.,50,rock,0.45,0.57,0.67,0.39,0.03,139.9,3.51
+2nLtzopw4rPReszdYBJU6h,Numb,Linkin Park,50,rock,0.43,0.84,0.34,0.11,0.06,100.7,3.13
+6Qyc6fS4DsZjB2mRW9DsQs,Iris,The Goo Goo Dolls,50,rock,0.45,0.73,0.3,0.32,0.05,95.9,4.83
+1UvWx2hgpxlF7HPbwLSmIY,Anjos (Pra quem tem fé),O Rappa,50,rock,0.61,0.6,0.76,0.01,0.06,128.4,6.99
+315VRtbac3csaASW7Rmd5K,Leniam Leniamagu,Big Sesarts,50,hip-hop,0.55,0.61,0.81,0.36,0.15,121.2,3.87
+6PFKsEDgy2GS2zAzpN3XPX,All That I Feel,Logic,50,hip-hop,0.67,0.59,0.72,0.36,0.15,117.4,3.6
+609Hs2suvdhJEXdGF3k3Ai,Don Dada,Jay Rox,50,hip-hop,0.62,0.86,0.76,0.1,0.19,93.2,3.77
+5jpPgLJpT9dTysQ3lMrTgb,Intro,Tykoon Suit,50,hip-hop,0.54,0.64,0.69,0.29,0.19,123.4,1.15
+7e6f9Fk2S7K3juxtfbD245,Outro from Ben,Chucky Blk,50,hip-hop,0.58,0.69,0.8,0.11,0.08,94.2,0.34
+24yy8Bj0Q4IJe6nSknfdS2,Milky way,Kidd Peko,50,hip-hop,0.53,0.91,0.76,0.26,0.2,141.7,1.77
+4hOrH49QTecnG4PziLWVG6,Lífið er ljúft (FMK),Love Guru,50,hip-hop,0.83,0.91,0.67,0.16,0.13,110.8,3.62
+7dYvupcGyTOQIiMm3JQE8e,Mc Zensur Skit 2,Baze,50,hip-hop,0.64,0.66,0.39,0.36,0.12,135.3,0.25
+3L5WgvTZ31I9nCcq7Mextr,Disco lights,Loopermanbeats,50,hip-hop,0.68,0.5,0.65,0.31,0.08,91.5,4.8
+4zdz432Gru46BcVoaVtygF,Empty Room,A.M. Breakups,50,hip-hop,0.45,0.62,0.64,0.33,0.03,127.7,3.79
+39cmB3ZoTOLwOTq7tMNqKa,Hear Me Now,Alok,50,electronic,0.81,0.51,0.42,0.25,0.05,124.1,3.25
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),David Guetta,50,electronic,0.43,0.93,0.84,0.21,0.14,132.1,2.92
+0TDLuuLlV54CkRRUOahJb4,Titanium (feat. Sia),David Guetta,50,electronic,0.78,0.69,0.72,0.18,0.19,127.5,4.08
+2V65y3PX4DkRhy1djlxd9p,Don't You Worry Child - Radio Edit,Swedish House Mafia,50,electronic,0.58,0.89,0.51,0.05,0.09,112.8,3.55
+7MmG8p0F9N3C4AXdK6o6Eb,Outside (feat. Ellie Goulding),Calvin Harris,50,electronic,0.77,0.8,0.41,0.33,0.16,111.7,3.79
+6YUTL4dYpB9xZO5qExPf05,Summer,Calvin Harris,50,electronic,0.66,0.86,0.54,0.3,0.04,116.8,3.71
+7fLzbEOBOae9lUnOwr7Tse,Memories (feat. Kid Cudi),David Guetta,50,electronic,0.62,0.61,0.77,0.02,0.11,92.6,3.5
+1gihuPhrLraKYrJMAEONyc,Feel So Close - Radio Edit,Calvin Harris,50,electronic,0.65,0.89,0.48,0.36,0.05,98.7,3.44
+07nH4ifBxUB4lZcsf44Brn,Blame (feat. John Newman),Calvin Harris,50,electronic,0.79,0.8,0.7,0.22,0.11,139.5,3.55
+0OTO8ZF2YqFQVw9hnZylTd,"What Is Love - 7"" Mix",Haddaway,50,electronic,0.59,0.74,0.68,0.18,0.14,122.7,4.51
+5fdNHVZHbWB1AaXk4RBGVD,Just the Two of Us,"Grover Washington, Jr.",50,jazz,0.79,0.79,0.44,0.31,0.08,141.5,7.4
+4SpqtLElDsO6KGbd4ub96Z,Pela Luz dos Olhos Teus - Bonus Track,Miúcha,50,jazz,0.42,0.7,0.8,0.19,0.12,94.7,2.74
+6Rqn2GFlmvmV4w9Ala0I1e,Feeling Good,Nina Simone,50,jazz,0.61,0.84,0.78,0.14,0.05,134.1,2.9
+4nwjvcUjV7cexhwA40Bh5i,Lover Girl,Laufey,50,jazz,0.6,0.78,0.32,0.13,0.04,110.5,2.74
+0eVnhQNFTRZXOIhHZNLX85,Dedicada a ela,Arthur Verocai,50,jazz,0.53,0.95,0.52,0.13,0.07,117.2,3.56
+08PdFBcXzpkn1cWNgmKqhn,Promise,Laufey,50,jazz,0.43,0.63,0.43,0.39,0.13,137.4,3.9
+0UqHzMvRQnaOXEPKgFVhxN,Madwoman,Laufey,50,jazz,0.45,0.57,0.67,0.39,0.03,139.9,3.99
+4KGGeE7RJsgLNZmnxGFlOj,Falling Behind,Laufey,50,jazz,0.43,0.84,0.34,0.11,0.06,100.7,2.89
+209ucYTS6vWEV5iydrHiOt,Só Tinha De Ser Com Você,Elis Regina,50,jazz,0.45,0.73,0.3,0.32,0.05,95.9,3.88
+4UQDZlZhGUDoYMohwrY28v,Virtual Insanity - Remastered 2006,Jamiroquai,50,jazz,0.61,0.6,0.76,0.01,0.06,128.4,3.82
+1wrA9K1P177mkPNt9BB2OZ,Peão Todo Tatuado,Jeninho,50,brazil,0.41,0.9,0.46,0.13,0.16,107.8,2.23
+6kaWah1Acn1dtNjAy6sm1p,Diário de um Cafajeste,DJ Oreia,50,brazil,0.83,0.7,0.6,0.15,0.05,97.8,5.95
+22bl3LPkCHQSBhCAdw8Jwk,Famoso Ímã | O poderoso chatão,Mc Lele JP,50,brazil,0.62,0.83,0.55,0.24,0.09,115.0,3.63
+7gx504HCEsTgxmyPNov5Lh,Cadeira Cativa - Ao Vivo,Zé Neto & Cristiano,50,brazil,0.49,0.68,0.37,0.02,0.04,101.7,2.68
+6n9JMoXkXu4lDOu1k6MRpy,Reliquia do 2T,DJ Gu,50,brazil,0.67,0.79,0.62,0.23,0.09,110.9,5.1
+4tYCyoSpv0Ujpfwcneb02l,Posso Até Não Te Dar Flores,DJ Japa NK,50,brazil,0.6,0.81,0.38,0.32,0.04,123.7,2.71
+3LZcSnTOCRalXwMXvkZnLZ,Saudade Estranha - Du Nada - Ao Vivo,Murilo Huff,50,brazil,0.48,0.85,0.44,0.31,0.08,125.8,2.91
+1CqUGmt2Cyn2vvvAyQKJZQ,Não Mexe nas Minhas Gavetas - Ao Vivo,Danilo e Davi,50,brazil,0.88,0.91,0.39,0.14,0.05,128.1,2.1
+2Hw0LzrD6ic8AckKBxJhiO,Deixa Eu - Ao Vivo,Murilo Huff,50,brazil,0.74,0.91,0.47,0.08,0.04,110.4,2.64
+4V2rUOmaevK0C1bKAkeFf5,Eu Te Seguro - Ao Vivo,Panda,50,brazil,0.88,0.76,0.79,0.21,0.15,111.1,2.48
